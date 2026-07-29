@@ -24,9 +24,9 @@
     <text class="mono" x="0" y="0" fill="#53e39b" font-size="18" font-weight="700" letter-spacing="3">05 · TWO PATHS FORWARD</text>
     <text class="sans" x="0" y="112" fill="#f8f3e9" font-size="82" font-weight="860" letter-spacing="-4">
       <tspan x="0" dy="0">Use the field guide.</tspan>
-      <tspan x="0" dy="92">Or let us help.</tspan>
+      <tspan x="0" dy="108">Or let us help.</tspan>
     </text>
-    <text class="sans" x="0" y="316" fill="#b4c0cd" font-size="29">
+    <text class="sans" x="0" y="332" fill="#b4c0cd" font-size="29">
       Technical readers and practical teams need different next steps.
     </text>
   </g>

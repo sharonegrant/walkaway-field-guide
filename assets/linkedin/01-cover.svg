@@ -34,9 +34,9 @@
   <g transform="translate(78 286)" filter="url(#shadow)">
     <text class="sans" x="0" y="0" fill="#f8f3e9" font-size="76" font-weight="850" letter-spacing="-4">
       <tspan x="0" dy="0">Can AI keep building</tspan>
-      <tspan x="0" dy="84">after you walk away?</tspan>
+      <tspan x="0" dy="98">after you walk away?</tspan>
     </text>
-    <text class="sans" x="0" y="213" fill="#d7dfe8" font-size="29" font-weight="570">
+    <text class="sans" x="0" y="226" fill="#d7dfe8" font-size="29" font-weight="570">
       <tspan x="0" dy="0">I tested a workflow that plans, executes, and verifies</tspan>
       <tspan x="0" dy="43">code—without pushing, merging, or deploying it.</tspan>
     </text>
