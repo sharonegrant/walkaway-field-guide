@@ -61,7 +61,7 @@ Read [RESULTS.md](RESULTS.md) for the evidence, scope, and limitations.
 
 ## Status
 
-**Guide and aggregate evidence:** publication candidate  
+**Guide and aggregate evidence:** publicly released July 29, 2026  
 **Reusable production runner:** not published  
 **Automated GitHub PR broker:** not yet tested  
 **AgentHub execution authority:** none
