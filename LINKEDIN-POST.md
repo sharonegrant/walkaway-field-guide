@@ -32,3 +32,15 @@ https://github.com/sharonegrant/walkaway-field-guide
 
 #AIAgents #AgenticAI #Codex #SoftwareEngineering #AIEngineering
 #ResponsibleAI #BuildInPublic
+
+## Image carousel
+
+Attach the following PNG files in this order:
+
+1. `assets/linkedin/01-cover.png`
+2. `assets/linkedin/02-system.png`
+3. `assets/linkedin/03-results.png`
+4. `assets/linkedin/04-budget.png`
+5. `assets/linkedin/05-read.png`
+
+Combined review sheet: `assets/linkedin/carousel-preview.png`
