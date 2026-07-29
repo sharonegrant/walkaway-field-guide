@@ -45,8 +45,9 @@
       <tspan x="30" dy="34">limits, and token model.</tspan>
     </text>
     <rect x="30" y="382" width="378" height="88" rx="20" fill="#0b1219" stroke="#53e39b"/>
-    <text class="mono" x="50" y="416" fill="#7d8d9c" font-size="13" letter-spacing="2">GITHUB</text>
-    <text class="sans" x="50" y="451" fill="#53e39b" font-size="22" font-weight="760">sharonegrant/walkaway-field-guide</text>
+    <text class="mono" x="50" y="407" fill="#7d8d9c" font-size="12" letter-spacing="2">GITHUB</text>
+    <text class="sans" x="50" y="434" fill="#53e39b" font-size="18" font-weight="760">github.com/sharonegrant/</text>
+    <text class="sans" x="50" y="458" fill="#53e39b" font-size="20" font-weight="800">walkaway-field-guide</text>
   </g>
 
   <g transform="translate(560 486)" filter="url(#shadow)">
