@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Walkaway restricted Codex pilot results</title>
+  <desc id="desc">Two accepted jobs, 35 of 35 tests passing, 63,125 mean token units, and 25 percent protected for verification.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10151d"/>
+      <stop offset="0.52" stop-color="#171f2b"/>
+      <stop offset="1" stop-color="#0c1017"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.12" r="0.72">
+      <stop offset="0" stop-color="#53e39b" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#53e39b" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .sans{font-family:Inter,Arial,sans-serif}
+      .mono{font-family:"JetBrains Mono",Menlo,monospace}
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" rx="36" fill="url(#bg)"/>
+  <rect width="1600" height="900" rx="36" fill="url(#glow)"/>
+  <path d="M0 735 C260 635 430 850 720 742 S1210 580 1600 720 V900 H0Z" fill="#53e39b" opacity="0.045"/>
+
+  <g transform="translate(94 86)">
+    <text class="mono" x="0" y="0" dominant-baseline="hanging" fill="#53e39b" font-size="25" letter-spacing="6">SHARON GRANT · BUILD IN PUBLIC</text>
+    <text class="sans" x="0" y="168" fill="#f5f0e8" font-size="106" font-weight="800" letter-spacing="-5">WALK</text>
+    <text class="sans" x="294" y="168" fill="#53e39b" font-size="106" font-weight="800" letter-spacing="-5">AWAY</text>
+    <text class="sans" x="0" y="232" fill="#aeb8c7" font-size="34" font-weight="600">Bounded autonomy. Measured compute. Independent verification.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="94" y="390" width="332" height="282" rx="28" fill="#171f2a" stroke="#2e3a4b" stroke-width="2"/>
+    <rect x="448" y="390" width="332" height="282" rx="28" fill="#171f2a" stroke="#2e3a4b" stroke-width="2"/>
+    <rect x="802" y="390" width="332" height="282" rx="28" fill="#171f2a" stroke="#2e3a4b" stroke-width="2"/>
+    <rect x="1156" y="390" width="350" height="282" rx="28" fill="#171f2a" stroke="#53e39b" stroke-width="2"/>
+  </g>
+
+  <g class="sans">
+    <text x="128" y="447" fill="#8290a4" font-size="22" font-weight="700" letter-spacing="2">ACCEPTED JOBS</text>
+    <text x="128" y="562" fill="#f5f0e8" font-size="110" font-weight="800">2</text>
+    <text x="128" y="630" fill="#aeb8c7" font-size="23">distinct synthetic tasks</text>
+
+    <text x="482" y="447" fill="#8290a4" font-size="22" font-weight="700" letter-spacing="2">CONTROL SUITE</text>
+    <text x="482" y="562" fill="#f5f0e8" font-size="88" font-weight="800">35/35</text>
+    <text x="482" y="630" fill="#aeb8c7" font-size="23">automated checks passed</text>
+
+    <text x="836" y="447" fill="#8290a4" font-size="22" font-weight="700" letter-spacing="2">MEAN USAGE</text>
+    <text x="836" y="562" fill="#f5f0e8" font-size="74" font-weight="800">63,125</text>
+    <text x="836" y="630" fill="#aeb8c7" font-size="23">token units per accepted job</text>
+
+    <text x="1190" y="447" fill="#53e39b" font-size="22" font-weight="700" letter-spacing="2">VERIFY RESERVE</text>
+    <text x="1190" y="562" fill="#f5f0e8" font-size="102" font-weight="800">25%</text>
+    <text x="1190" y="630" fill="#aeb8c7" font-size="23">protected before execution</text>
+  </g>
+
+  <g transform="translate(94 755)">
+    <circle cx="15" cy="15" r="15" fill="#53e39b"/>
+    <path d="M7 15 l6 6 11-13" fill="none" stroke="#0d141b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="mono" x="52" y="20" fill="#dce4ee" font-size="22">DISPOSABLE WORKTREE</text>
+
+    <circle cx="432" cy="15" r="15" fill="#53e39b"/>
+    <path d="M424 15 l6 6 11-13" fill="none" stroke="#0d141b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="mono" x="469" y="20" fill="#dce4ee" font-size="22">COMMAND NETWORK DENIED</text>
+
+    <circle cx="916" cy="15" r="15" fill="#53e39b"/>
+    <path d="M908 15 l6 6 11-13" fill="none" stroke="#0d141b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="mono" x="953" y="20" fill="#dce4ee" font-size="22">NO PUSH · NO MERGE · NO DEPLOY</text>
+  </g>
+
+  <text class="mono" x="94" y="848" fill="#718096" font-size="18">JULY 29, 2026 · SMALL PURPOSEFUL PILOT · NOT A PRODUCTION AUTONOMY CLAIM</text>
+</svg>
