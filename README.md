@@ -59,6 +59,14 @@ Read [RESULTS.md](RESULTS.md) for the evidence, scope, and limitations.
 - [Third-party notices](THIRD_PARTY_NOTICES.md)
 - [LinkedIn launch draft](LINKEDIN-POST.md)
 
+## LinkedIn launch kit
+
+![Walkaway LinkedIn carousel preview](assets/linkedin/carousel-preview.png)
+
+The launch kit contains five upload-ready 1080 × 1350 PNG slides, editable SVG
+sources, and the text-free hero artwork. See the
+[carousel upload order](assets/linkedin/README.md).
+
 ## Status
 
 **Guide and aggregate evidence:** publicly released July 29, 2026  
