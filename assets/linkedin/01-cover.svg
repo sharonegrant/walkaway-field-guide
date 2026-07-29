@@ -62,10 +62,10 @@
       <text class="sans" x="0" y="137" fill="#aeb9c8" font-size="20">token units</text>
     </g>
     <line x1="756" y1="30" x2="756" y2="184" stroke="#344451" stroke-width="2"/>
-    <g transform="translate(788 30)">
-      <text class="mono" x="0" y="0" fill="#7f8c9c" font-size="15" letter-spacing="2">VERIFY RESERVE</text>
-      <text class="sans" x="0" y="90" fill="#53e39b" font-size="67" font-weight="860">25%</text>
-      <text class="sans" x="0" y="137" fill="#aeb9c8" font-size="20">protected first</text>
+    <g transform="translate(756 30)">
+      <text class="mono" x="84" y="0" text-anchor="middle" fill="#7f8c9c" font-size="13" letter-spacing="1.2">VERIFY RESERVE</text>
+      <text class="sans" x="84" y="90" text-anchor="middle" fill="#53e39b" font-size="64" font-weight="860">25%</text>
+      <text class="sans" x="84" y="137" text-anchor="middle" fill="#aeb9c8" font-size="18">protected first</text>
     </g>
   </g>
 

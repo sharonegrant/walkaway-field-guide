@@ -69,9 +69,10 @@
 
   <g transform="translate(78 1056)">
     <text class="mono" x="0" y="0" fill="#53e39b" font-size="16" font-weight="700" letter-spacing="3">START WITH THE WORK, NOT THE TOOL.</text>
-    <text class="sans" x="0" y="60" fill="#f8f3e9" font-size="34" font-weight="710">
-      <tspan x="0" dy="0">If information is scattered, follow-up is manual, or AI feels</tspan>
-      <tspan x="0" dy="48">useful but unclear, start with an Everyday AI Readiness Audit.</tspan>
+    <text class="sans" x="0" y="60" fill="#f8f3e9" font-size="32" font-weight="710">
+      <tspan x="0" dy="0">If information is scattered, follow-up is manual,</tspan>
+      <tspan x="0" dy="42">or AI feels useful but unclear, start with an</tspan>
+      <tspan x="0" dy="42">Everyday AI Readiness Audit.</tspan>
     </text>
   </g>
 
