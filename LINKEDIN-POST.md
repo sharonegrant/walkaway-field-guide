@@ -28,6 +28,12 @@ not the same as a provider-enforced spending limit.
 I’m publishing the revised guide and honest pilot results so other builders can
 learn from both the pattern and its boundaries.
 
+For builders who want to inspect the architecture, the field guide is public on
+GitHub. For organizations that want the outcome without assembling the stack,
+Rick and I help teams design practical AI, data, dashboard, and workflow systems
+through Everyday AI Playbook. Start with an Everyday AI Readiness Audit:
+https://everydayaiplaybook.com/
+
 https://github.com/sharonegrant/walkaway-field-guide
 
 #AIAgents #AgenticAI #Codex #SoftwareEngineering #AIEngineering
