@@ -28,8 +28,7 @@ not the same as a provider-enforced spending limit.
 I’m publishing the revised guide and honest pilot results so other builders can
 learn from both the pattern and its boundaries.
 
-[ADD REPOSITORY LINK]
+https://github.com/sharonegrant/walkaway-field-guide
 
 #AIAgents #AgenticAI #Codex #SoftwareEngineering #AIEngineering
 #ResponsibleAI #BuildInPublic
-
