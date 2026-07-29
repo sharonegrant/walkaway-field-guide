@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="shade" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#081018" stop-opacity="0.98"/>
+      <stop offset="0.62" stop-color="#0a1118" stop-opacity="0.83"/>
+      <stop offset="1" stop-color="#0a1118" stop-opacity="0.38"/>
+    </linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="30" flood-color="#000" flood-opacity="0.5"/></filter>
+    <style>
+      .sans{font-family:Inter,Arial,sans-serif}
+      .mono{font-family:"JetBrains Mono",Menlo,monospace}
+    </style>
+  </defs>
+  <rect width="1080" height="1350" fill="#081018"/>
+  <image x="0" y="0" width="1080" height="1350" xlink:href="walkaway-hero-art.png" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1080" height="1350" fill="url(#shade)"/>
+
+  <g transform="translate(82 86)">
+    <text class="mono" x="0" y="0" fill="#53e39b" font-size="19" font-weight="700" letter-spacing="3">05 · READ THE FIELD GUIDE</text>
+    <text class="sans" x="0" y="114" fill="#f7f2e8" font-size="85" font-weight="850" letter-spacing="-4">
+      <tspan x="0" dy="0">The evidence</tspan>
+      <tspan x="0" dy="96">is public.</tspan>
+    </text>
+    <text class="sans" x="0" y="338" fill="#d7e0e8" font-size="30" font-weight="580">
+      <tspan x="0" dy="0">Tested workflow. Honest limitations.</tspan>
+      <tspan x="0" dy="46">Reusable safety and budget patterns.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(82 610)" filter="url(#shadow)">
+    <rect width="790" height="242" rx="34" fill="#101a22" fill-opacity="0.94" stroke="#53e39b" stroke-width="2"/>
+    <text class="mono" x="38" y="55" fill="#7d8d9c" font-size="17" letter-spacing="2">GITHUB</text>
+    <text class="sans" x="38" y="124" fill="#f7f2e8" font-size="33" font-weight="720">sharonegrant/</text>
+    <text class="sans" x="38" y="171" fill="#53e39b" font-size="39" font-weight="820">walkaway-field-guide</text>
+    <text class="sans" x="38" y="214" fill="#aeb9c8" font-size="20">github.com/sharonegrant/walkaway-field-guide</text>
+  </g>
+
+  <g transform="translate(82 928)">
+    <rect width="916" height="2" fill="#53e39b"/>
+    <text class="mono" x="0" y="61" fill="#53e39b" font-size="18" font-weight="700" letter-spacing="2">WHAT IT DOES NOT CLAIM</text>
+    <text class="sans" x="0" y="118" fill="#f7f2e8" font-size="29" font-weight="630">
+      <tspan x="0" dy="0">A production runner · a PR broker · unlimited autonomy</tspan>
+    </text>
+    <text class="sans" x="0" y="190" fill="#aeb9c8" font-size="23">
+      The next phase is to build and test those layers privately.
+    </text>
+  </g>
+
+  <g transform="translate(82 1210)">
+    <circle cx="31" cy="31" r="31" fill="#53e39b"/>
+    <path d="M17 31h28m-11-11 11 11-11 11" fill="none" stroke="#0b1119" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="sans" x="84" y="23" fill="#f7f2e8" font-size="24" font-weight="700">Read it. Challenge it.</text>
+    <text class="sans" x="84" y="55" fill="#aeb9c8" font-size="22">Build on what survives verification.</text>
+  </g>
+</svg>

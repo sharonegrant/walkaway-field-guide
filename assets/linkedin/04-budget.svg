@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1118"/>
+      <stop offset="1" stop-color="#182630"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#53e39b"/>
+      <stop offset="1" stop-color="#baf6d7"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .sans{font-family:Inter,Arial,sans-serif}
+      .mono{font-family:"JetBrains Mono",Menlo,monospace}
+    </style>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="820" cy="510" r="440" fill="#53e39b" opacity="0.035"/>
+  <g transform="translate(82 86)">
+    <text class="mono" x="0" y="0" fill="#53e39b" font-size="19" font-weight="700" letter-spacing="3">04 · TOKEN ECONOMICS</text>
+    <text class="sans" x="0" y="102" fill="#f7f2e8" font-size="73" font-weight="840" letter-spacing="-3">
+      <tspan x="0" dy="0">A token budget is</tspan>
+      <tspan x="0" dy="84">an engineering control.</tspan>
+    </text>
+    <text class="sans" x="0" y="286" fill="#aeb9c8" font-size="27">Do not let execution consume the evidence budget.</text>
+  </g>
+
+  <g transform="translate(540 692)">
+    <circle r="280" fill="#101a22" stroke="#293844" stroke-width="2"/>
+    <circle r="214" fill="none" stroke="#273742" stroke-width="88"/>
+    <circle r="214" fill="none" stroke="url(#ring)" stroke-width="88" stroke-linecap="round"
+            stroke-dasharray="336 1009" transform="rotate(-90)" filter="url(#glow)"/>
+    <text class="sans" x="0" y="-18" text-anchor="middle" fill="#f7f2e8" font-size="104" font-weight="860">25%</text>
+    <text class="mono" x="0" y="34" text-anchor="middle" fill="#53e39b" font-size="18" font-weight="700" letter-spacing="2">PROTECTED</text>
+    <text class="sans" x="0" y="75" text-anchor="middle" fill="#aeb9c8" font-size="24">for verification</text>
+  </g>
+
+  <g transform="translate(82 1038)">
+    <rect width="916" height="162" rx="30" fill="#111c24" stroke="#344551" stroke-width="2"/>
+    <text class="mono" x="34" y="46" fill="#7e8c99" font-size="17" letter-spacing="2">RETAINED WHOLE-JOB CEILING</text>
+    <text class="sans" x="34" y="121" fill="#f7f2e8" font-size="64" font-weight="840">100,000</text>
+    <text class="sans" x="360" y="118" fill="#aeb9c8" font-size="25">token units</text>
+    <rect x="715" y="51" width="160" height="60" rx="30" fill="#ff8a5b"/>
+    <text class="mono" x="795" y="88" text-anchor="middle" fill="#151b20" font-size="17" font-weight="800">STOP = STOP</text>
+  </g>
+  <text class="sans" x="82" y="1257" fill="#aeb9c8" font-size="23">The ceiling is a tested pilot policy—not a universal optimum.</text>
+  <text class="mono" x="82" y="1297" fill="#708091" font-size="16">WALKAWAY FIELD GUIDE · SHARON GRANT</text>
+</svg>

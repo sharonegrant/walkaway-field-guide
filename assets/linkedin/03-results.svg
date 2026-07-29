@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4efe5"/>
+      <stop offset="1" stop-color="#dceee4"/>
+    </linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#284438" flood-opacity="0.16"/></filter>
+    <style>
+      .sans{font-family:Inter,Arial,sans-serif}
+      .mono{font-family:"JetBrains Mono",Menlo,monospace}
+    </style>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <path d="M0 1110C230 980 440 1200 700 1080s260-75 380-15v285H0z" fill="#53e39b" opacity="0.12"/>
+  <g transform="translate(82 86)">
+    <text class="mono" x="0" y="0" fill="#16764b" font-size="19" font-weight="700" letter-spacing="3">03 · PILOT RESULTS</text>
+    <text class="sans" x="0" y="102" fill="#0e1820" font-size="76" font-weight="840" letter-spacing="-4">
+      <tspan x="0" dy="0">Small pilot.</tspan>
+      <tspan x="0" dy="85">Concrete evidence.</tspan>
+    </text>
+    <text class="sans" x="0" y="287" fill="#4a5b66" font-size="27">Two distinct synthetic jobs, checked end to end.</text>
+  </g>
+
+  <g transform="translate(82 460)" filter="url(#shadow)">
+    <rect width="436" height="280" rx="34" fill="#101821"/>
+    <text class="mono" x="38" y="52" fill="#78eab0" font-size="17" letter-spacing="2">REAL CODEX TRIALS</text>
+    <text class="sans" x="38" y="177" fill="#f8f3e9" font-size="112" font-weight="860">2/2</text>
+    <text class="sans" x="38" y="232" fill="#aeb9c7" font-size="22">accepted by independent review</text>
+  </g>
+  <g transform="translate(562 460)" filter="url(#shadow)">
+    <rect width="436" height="280" rx="34" fill="#16764b"/>
+    <text class="mono" x="38" y="52" fill="#d6fae7" font-size="17" letter-spacing="2">CONTROL HARNESS</text>
+    <text class="sans" x="38" y="177" fill="#ffffff" font-size="98" font-weight="860">35/35</text>
+    <text class="sans" x="38" y="232" fill="#d4f4e3" font-size="22">automated checks passed</text>
+  </g>
+
+  <g transform="translate(82 784)" filter="url(#shadow)">
+    <rect width="916" height="300" rx="34" fill="#ffffff" fill-opacity="0.76" stroke="#b8d2c3" stroke-width="2"/>
+    <text class="mono" x="40" y="54" fill="#64736f" font-size="17" letter-spacing="2">MEASURED MEAN USAGE</text>
+    <text class="sans" x="40" y="190" fill="#0e1820" font-size="126" font-weight="870" letter-spacing="-5">63,125</text>
+    <text class="sans" x="40" y="247" fill="#42545b" font-size="26">token units per accepted job</text>
+    <g transform="translate(700 72)">
+      <circle cx="72" cy="72" r="68" fill="#e5f7ee"/>
+      <path d="M72 18v108M18 72h108" stroke="#53e39b" stroke-width="3" opacity="0.45"/>
+      <circle cx="72" cy="72" r="22" fill="#53e39b"/>
+      <circle cx="72" cy="72" r="50" fill="none" stroke="#16764b" stroke-width="3" stroke-dasharray="5 8"/>
+    </g>
+  </g>
+
+  <g transform="translate(82 1140)">
+    <circle cx="14" cy="14" r="14" fill="#16764b"/>
+    <path d="M7 14l5 5 10-12" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <text class="sans" x="44" y="21" fill="#33454d" font-size="23">Disposable workspace</text>
+    <circle cx="328" cy="14" r="14" fill="#16764b"/>
+    <path d="M321 14l5 5 10-12" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <text class="sans" x="358" y="21" fill="#33454d" font-size="23">Network denied</text>
+    <circle cx="612" cy="14" r="14" fill="#16764b"/>
+    <path d="M605 14l5 5 10-12" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <text class="sans" x="642" y="21" fill="#33454d" font-size="23">No deploy</text>
+  </g>
+  <text class="mono" x="82" y="1297" fill="#63736f" font-size="16">PURPOSEFUL SAMPLE · NOT A PRODUCTION AUTONOMY CLAIM</text>
+</svg>
